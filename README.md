@@ -1,4 +1,4 @@
-<!-- Boas-vindas -->
+<!-- Boas-vindas --> 
 <h1 align="center">Olá 👋! Meu nome é Amanda Ligia</h1>
 <h3 align="center">Sou uma Desenvolvedora de Software Brasileira 💻<br>Entusiasta por Tecnologia e Aprendizado Contínuo 🚀</h3>
 
