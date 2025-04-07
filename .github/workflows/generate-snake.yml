@@ -2,7 +2,7 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *" # roda todo dia à meia-noite
+    - cron: "0 0 * * *" # Executa todo dia à meia-noite UTC
   workflow_dispatch:
 
 jobs:
@@ -15,6 +15,7 @@ jobs:
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
+
       - name: Commit and push
         uses: EndBug/add-and-commit@v9
         with:
