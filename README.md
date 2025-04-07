@@ -48,5 +48,5 @@
 <br clear="both" />
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AmandaLigia08/AmandaLigia08/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/AmandaLigia08/AmandaLigia08/output/snake.svg"/>
 </div>
