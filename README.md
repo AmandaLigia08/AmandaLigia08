@@ -105,9 +105,8 @@ Se tiver algo legal em mente, me chama!
 ---
 
 <!-- Snake animation -->
-<!-- ⚠️ Atenção: O GitHub Actions precisa estar configurado no repositório para isso funcionar -->
-<!-- Caso queira ativar, siga um tutorial como esse: https://github.com/Platane/snk -->
-<!-- <div align="center">
-  <img src="https://raw.githubusercontent.com/AmandaLigia08/AmandaLigia08/output/snake.svg" alt="Snake animation" />
-</div> -->
+<!-- Snake animation -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AmandaLigia08/AmandaLigia08/output/github-snake.svg" alt="Snake animation" />
+</div>
 
