@@ -1,6 +1,5 @@
 <h2 align="center">Olá 👋! Meu nome é Amanda Ligia</h2>
 <h2 align="center">Sou uma Desenvolvedora de Software Brasileira, Entusiasta por Tecnologia e Aprendizado Contínuo.</h2>
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AmandaLigia08&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="AmandaLigia08's GitHub Stats" />
